@@ -1,5 +1,5 @@
 const express = require('express');
-const expressDocblocs = require('../node_modules/express-docblocs');
+const expressDocblocs = require('express-docblocs');
 
 let app = express();
 
